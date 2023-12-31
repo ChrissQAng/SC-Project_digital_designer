@@ -121,6 +121,12 @@ h2 {
   color: white;
 }
 
+.rollr a:hover,
+.tretto a:hover {
+  background-color: black;
+  color: white;
+}
+
 /* ---------------------------------------- 1.ORBIS */
 .orbis {
   background-image: url(../assets/img/handshake.jpg);
