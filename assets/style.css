@@ -90,6 +90,10 @@ h2 {
   width: 200px;
 }
 
+.year::before {
+  content: "-  ";
+}
+
 .white {
   color: white;
 }
@@ -161,7 +165,7 @@ h2 {
   height: 826px;
 }
 
-/*  ------------------------------what more + footer */
+/*  ------------------------------what more */
 .whatmore {
   font-family: work, sans-serif;
   font-weight: 400;
@@ -181,6 +185,8 @@ h2 {
   margin-bottom: 70px;
   width: 500px;
 }
+
+/* ------------------------------footer */
 .email {
   font-size: 60px;
   margin-left: 30%;
