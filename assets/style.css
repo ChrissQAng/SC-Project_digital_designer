@@ -127,7 +127,7 @@ h2 {
   color: white;
 }
 
-/* ---------------------------------------- 1.ORBIS */
+/* ---------------------------------------- 4 SECTIONS */
 .orbis {
   background-image: url(../assets/img/handshake.jpg);
   background-repeat: no-repeat;
@@ -160,14 +160,8 @@ h2 {
   background-attachment: fixed;
   height: 826px;
 }
-/* colors of h3, a and number + hover effekt */
-/* .black {
-  color: black;
-}
-.white {
-  color: white;
-} */
-/* what more + footer */
+
+/*#------------------------------what more + footer */
 .whatmore {
   font-family: work, sans-serif;
   font-weight: 400;
